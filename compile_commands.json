@@ -1,0 +1,194 @@
+[
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\main.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\main.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\stm32f4xx_it.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\stm32f4xx_it.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\stm32f4xx_it.c",
+  "output": "CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\stm32f4xx_it.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\stm32f4xx_hal_msp.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\stm32f4xx_hal_msp.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\stm32f4xx_hal_msp.c",
+  "output": "CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\stm32f4xx_hal_msp.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\sysmem.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\sysmem.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\syscalls.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\syscalls.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\OpenMp3Trigger.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\OpenMp3Trigger.dir\\startup_stm32f405xx.s.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\startup_stm32f405xx.s",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\startup_stm32f405xx.s",
+  "output": "CMakeFiles\\OpenMp3Trigger.dir\\startup_stm32f405xx.s.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f4xx.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\system_stm32f4xx.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Core\\Src\\system_stm32f4xx.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f4xx.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s_ex.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s_ex.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2s_ex.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_rcc.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_rcc.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_rcc.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_utils.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_utils.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_utils.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_utils.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_exti.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_exti.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_exti.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_sdmmc.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_sdmmc.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_sdmmc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_sdmmc.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_sd.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_sd.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_sd.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_sd.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_mmc.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_mmc.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_mmc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_mmc.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_tim.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_tim.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_tim.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_tim.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_gpio.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_gpio.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_gpio.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_dma.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_dma.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_dma.c.obj"
+},
+{
+  "directory": "C:/Projects/STM32-VSC/OpenMP3Trigger",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F405xx -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -IC:/Projects/STM32-VSC/OpenMP3Trigger/Core/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Projects/STM32-VSC/OpenMP3Trigger/Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_usart.c.obj -c C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_usart.c",
+  "file": "C:\\Projects\\STM32-VSC\\OpenMP3Trigger\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_usart.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_usart.c.obj"
+}
+]
