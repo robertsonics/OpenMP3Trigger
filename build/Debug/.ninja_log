@@ -130,3 +130,5 @@
 235	451	7697364095720976	OpenMp3Trigger.elf	89d7bb9aba3467fd
 3	262	7697483011548712	CMakeFiles/OpenMp3Trigger.dir/App/Src/mp3.c.obj	75877ebf7016e590
 263	474	7697483013245342	OpenMp3Trigger.elf	89d7bb9aba3467fd
+64	92	0	CMakeFiles/clean.additional	98374df07ddc0872
+92	105	0	clean	529518bdb38c021b
