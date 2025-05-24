@@ -80,6 +80,13 @@ void sdTestInit(void) {
 	gNumMP3Voices = MAX_NUM_MP3_VOICES;
 	mp3DecodeInit();
 
+	// Initialize our tracks
+	if (trackInit(&gNumMp3Tracks))
+		gSysFlags |= SYS_FILESYS_ERROR;
+
+	// Initialize the ASCII serial console interface
+	consoleInit();
+
 	// Blink appropriately
 	if (gSysFlags == 0)
 		doBlink(BLINK_OK);
@@ -95,6 +102,10 @@ void sdTestInit(void) {
 // ****************************************************************************
 void sdTestProcess(void)
 {
+
+	// ================== MAIN LOOP TASK 1 ===================
+	// Service the ASCII serial console
+	consoleService();
 
 	// ================== MAIN LOOP TASK 2 ===================
 	// Service the heartbeat LED

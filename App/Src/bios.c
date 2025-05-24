@@ -76,7 +76,10 @@ bool biosSystemInit(void) {
 	
 	// Start the hi-res timer
 	LL_TIM_EnableCounter(TIM2);
-		
+
+	// Enable the CRC clock for the Spirit MP3 Decoder library
+	__HAL_RCC_CRC_CLK_ENABLE();
+
 	return true;
 }
 

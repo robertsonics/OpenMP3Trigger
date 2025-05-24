@@ -1,8 +1,8 @@
 // ****************************************************************************
-//     Filename: MEMORY.C
+//     Filename: TRACK.H
 // Date Created: 5/19/2025
 //
-//     Comments: Global memory allocations for the OpenMP3Player
+//     Comments: Track module header for the Robertsonics OpenMP3 Player
 //
 // Build Environment: Visual Studio Code
 //                    STM32CubeMx
@@ -24,15 +24,29 @@
 //
 // ****************************************************************************
 
-#include "player.h"
+// Define the max number of tracks for this build. Tracks are numbered
+//  starting at 0.  
 
-uint8_t gSdBuff[8192] __attribute__((aligned (32)));
+#define MAX_NUM_TRACKS			4096
 
-FATFS fatFs __attribute__((aligned (32)));
+// Bit definitions for the track flag byte
 
-MP3_VOICE_STRUCTURE mp3[MAX_NUM_MP3_VOICES] __attribute__((aligned (32)));
-TRACK_STRUCTURE track[MAX_NUM_TRACKS];
+#define TRACK_FLAG_EXISTS		0x80
+#define TRACK_FLAG_LOOP			0x40
+#define TRACK_FLAG_LOCK			0x20
+#define TRACK_FLAG_MP3			0x10
 
-q15_t gVoiceSdBuff[SAMPLES_PER_BLOCK] __attribute__((aligned (32)));
+// The following structure defines a track
 
+#pragma pack(1)
+typedef struct {
+	uint8_t flags;				// Flags
+	uint8_t dummy;				// 
+	FILE_SIZE fileSize;			// File size
+} TRACK_STRUCTURE;
+#pragma pack()
+
+// Function prototypes for this module
+
+bool trackInit(uint16_t * tnum);
 

@@ -80,14 +80,18 @@ typedef union
 
 } FILE_SIZE;
 
-
+#include <string.h>
+#include <stdbool.h>
+#include <stdio.h>
 #include "arm_math.h"
 #include "bios.h"
+#include "voice.h"
 #include "mp3decode.h"
 #include "mp3.h"
+#include "track.h"
 #include "dsp.h"
 #include "ffdisk.h"
-#include <string.h>
+#include "console.h"
 
 // ****************************************************************************
 // Function prototypes

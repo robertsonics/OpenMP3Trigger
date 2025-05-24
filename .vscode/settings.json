@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "voice.h": "c",
+        "arm_math.h": "c"
+    }
+}

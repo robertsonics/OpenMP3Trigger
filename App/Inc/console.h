@@ -1,8 +1,8 @@
 // ****************************************************************************
-//     Filename: MEMORY.C
+//     Filename: CONSOLE.H
 // Date Created: 5/19/2025
 //
-//     Comments: Global memory allocations for the OpenMP3Player
+//     Comments: ASCII serial module header for the Robertsonics OpenMP3 Player
 //
 // Build Environment: Visual Studio Code
 //                    STM32CubeMx
@@ -24,15 +24,23 @@
 //
 // ****************************************************************************
 
-#include "player.h"
+#define MAX_CONSOLE_CMD_LEN		64
+#define MAX_CONSOLE_PARAMS		8
 
-uint8_t gSdBuff[8192] __attribute__((aligned (32)));
+// Function prototypes for this module
 
-FATFS fatFs __attribute__((aligned (32)));
+void consoleInit(void);
+void consoleService(void);
+void consoleDoCommand(void);
+bool consoleParseLine(void);
+int consoleGetCommand(char * cmdString);
+int consoleGetValue(int32_t * val);
 
-MP3_VOICE_STRUCTURE mp3[MAX_NUM_MP3_VOICES] __attribute__((aligned (32)));
-TRACK_STRUCTURE track[MAX_NUM_TRACKS];
+void consoleSyntaxErr(void);
+void consoleSignOn(void);
 
-q15_t gVoiceSdBuff[SAMPLES_PER_BLOCK] __attribute__((aligned (32)));
-
+bool consoleNewLine(int nl);
+bool consoleSendString(char * pMsg);
+bool consoleSendBytes(char * pMsg, uint8_t len);
+bool consoleSendInt32(uint32_t n);
 

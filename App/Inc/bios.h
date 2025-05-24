@@ -28,7 +28,6 @@
 #define WT_BIOS_20250519
 
 #include "stm32f4xx_hal.h"
-#include <stdbool.h>
 
 #define LED_ON			true
 #define LED_OFF 		false
